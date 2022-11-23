@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tejash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/tejasv99" target="blank"><img src="https://img.shields.io/twitter/follow/tejasv99?logo=twitter&style=for-the-badge" alt="tejasv99" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
