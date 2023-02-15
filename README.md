@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejash</h1>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://wwww.tejash.live](https://wwww.tejash.live)
 
