@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://wwww.tejash.live](https://wwww.tejash.live)
+- 👨‍💻 All of my projects are available [here](https://www.tejash.live/)
 
 - 💬 Ask me about **CSS, Node.js ,Vectors and Illustrations**
 
