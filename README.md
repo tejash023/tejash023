@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejash023&show_icons=true&locale=en&layout=compact" alt="tejash023" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejash023&" alt="tejash023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejash023&theme=highcontrast&border_radius=10.7" alt="tejash023" /></p>
