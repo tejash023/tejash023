@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejash</h1>
-
-- 🌱 Currently learning **React.js**
-
-- 👨‍💻 All of my projects are available [here](https://www.tejash.live/)
-
-- 💬 Ask me about **CSS, Node.js ,Vectors and Illustrations**
-
-- 📫 How to reach me **tejash34961@gmail.com**
-
+<h1 align="center">Hi, I'm Tejash</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 
