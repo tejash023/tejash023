@@ -20,6 +20,3 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=tejash023&theme=tokyonight_duo&hide_border=true"
 </p>
 
-
-<!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tejash023&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
