@@ -7,9 +7,9 @@ Hi, I am Tejash.
 </div>
 
  <!--Total Contributions--> 
- <!--
+ 
  <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=tejash023&theme=tokyonight_duo&hide_border=true"
 </p>
 
--->
+
